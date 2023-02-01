@@ -1,4 +1,4 @@
-- 👋 Hallo ich bin [DevOps Engineer]
+- 👋 Hallo ich bin [DevOps Engineer].
 - 👀 Ich bin interessiert an Jobangeboten.
 - 🌱 Ich lerne derzeit Java, Git, terraform, Jenkins usw.
 - 💞️ Ihr dürft mir gern folgen.
