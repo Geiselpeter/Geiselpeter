@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Geiselpeter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hallo ich bin [DevOps Engineer]
+- 👀 Ich bin interessiert an Jobangeboten.
+- 🌱 Ich lerne derzeit Java, Git, terraform, Jenkins usw.
+- 💞️ Ihr dürft mir gern folgen.
+- 📫 Schreibt mir einfach!
 
 <!---
 Geiselpeter/Geiselpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
