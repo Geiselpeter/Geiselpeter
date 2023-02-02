@@ -15,9 +15,9 @@ Michel Hilarius
 
 💬 Fragen Sie mich nach DevOps, Cloud
 
-📫 So erreichen Sie mich @https://github.com/Geiselpeter
+📫 So erreichen Sie mich @                    https://github.com/Geiselpeter
 
 ⚡ Cloud Spezialist
 
 Verbinde dich mit mir:
-(https://github.com/Geiselpeter)
+                                              (https://github.com/Geiselpeter)
