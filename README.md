@@ -1,10 +1,23 @@
-- 👋 Hallo ich bin [DevOps Engineer].
-- 👀 Ich bin interessiert an Jobangeboten.
-- 🌱 Ich lerne derzeit Java, Git, terraform, Jenkins usw.
-- 💞️ Ihr dürft mir gerne folgen.
-- 📫 Schreibt mir einfach bei weiteren Fragen.
+Hallo 👋, ich bin Michel
+DevOps Engineer, Student.
 
-<!---
-Geiselpeter/Geiselpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Michel Hilarius
+
+
+🔭 Aktuell bin ich Student bei techstarter.de
+
+🧑‍🏫 Ich bin DevOps Student
+
+👯 Ich möchte an Code mitarbeiten
+
+💬 Fragen Sie mich nach DevOps, Cloud
+
+📫 So erreichen Sie mich @https://github.com/Geiselpeter
+
+⚡ Cloud Spezialist
+
+Verbinde dich mit mir:
+(https://github.com/Geiselpeter)
+
+Sprachen und Werkzeuge:
+Android aws azurblau schlagen Zypresse Hafenarbeiter Elasticsearch Figma flattern EC2 Einguss graphql Heroku HTML5 Javascript Jenkins Kafka Kubernetes Linux materialisieren Mongodb MySQL nginx nodejs nuxtjs PostgreSQL Briefträger Python Gleis Redis rubinrot Sass SQLite schlank Rückenwind Maschinenschrift Vagabund vuejs vuetify Webpack
