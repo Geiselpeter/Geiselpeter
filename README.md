@@ -2,7 +2,9 @@ Hallo 👋, ich bin Michel
 
 DevOps Engineer, Student.
 
+
 Michel Hilarius
+
 
 
 🔭 Aktuell bin ich Student bei techstarter.de
@@ -19,6 +21,3 @@ Michel Hilarius
 
 Verbinde dich mit mir:
 (https://github.com/Geiselpeter)
-
-Sprachen und Werkzeuge:
-Android aws azurblau schlagen Zypresse Hafenarbeiter Elasticsearch Figma flattern EC2 Einguss graphql Heroku HTML5 Javascript Jenkins Kafka Kubernetes Linux materialisieren Mongodb MySQL nginx nodejs nuxtjs PostgreSQL Briefträger Python Gleis Redis rubinrot Sass SQLite schlank Rückenwind Maschinenschrift Vagabund vuejs vuetify Webpack
